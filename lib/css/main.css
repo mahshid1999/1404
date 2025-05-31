@@ -1,0 +1,92 @@
+body {
+  font-family: 'Vazirmatn';
+  
+}
+.nav a{
+    color:black;
+    font-size: 0.60rem;
+}
+.nav a:hover{
+    color: black;
+}
+.nav a:visited{
+    color: black;
+}
+
+.dropbtn {
+  
+    color: black;
+    padding: 10px;
+
+    border: none;
+    cursor: pointer;
+  }
+  
+  .w-33 {
+    width: 33.33%;
+    min-width: 300px; 
+  }
+  #txt{
+    font-size: 10px;
+    color: gray;
+    font-family: 'Vazirmatn';
+  }
+  #txt1{
+    font-size: 10px;
+    color: black;
+    font-family: 'Vazirmatn';
+  }
+div
+{
+  font-family: 'Vazirmatn';
+ }
+
+
+.nav .nav-link {
+  margin-left: 5px;
+}
+
+#txt2{
+  font-size: 9px;
+  margin-top: 5px;
+  background-color:#E2EDF3;
+  border-radius: 2px;
+  color: darkslategrey;
+  text-align: center;
+  
+}
+#btn1{
+  background:rgb(10, 162, 216);
+
+}
+footer{
+color: darkslategray;
+  margin-top: 20px;
+  background:#E2EDF3;
+}
+label {
+  text-align: right;
+  width: 100%;
+  direction: rtl;
+}
+.nav-item a{
+  font-size: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  background-color: #E2EDF3;
+}
+.dropdown-menu {
+  position: absolute;    
+  width:600px;
+  height: 400px;
+  z-index: 1000;
+}
+.dropdown-menu a{
+   text-align: right;
+}
